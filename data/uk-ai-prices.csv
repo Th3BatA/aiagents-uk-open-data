@@ -1,0 +1,33 @@
+category,product,plan,uk_price_a_month,billed,vat,source,source_url,checked
+AI assistants,ChatGPT,Go,£7,Monthly,Not stated,ChatGPT pricing,https://chatgpt.com/pricing/,2026-11-18
+AI assistants,ChatGPT,Plus,£20,Monthly,Not stated,ChatGPT pricing,https://chatgpt.com/pricing/,2026-11-18
+AI assistants,ChatGPT,Pro (Pro 100),£89,Monthly,Not stated,ChatGPT pricing,https://chatgpt.com/pricing/,2026-11-18
+AI assistants,ChatGPT,"Business, Standard seat",£18 a seat (£15 billed yearly),"Monthly, or yearly at £15",Not stated,ChatGPT Business pricing,https://chatgpt.com/pricing/?type=team,2026-11-18
+AI assistants,ChatGPT,"Business, Premium seat (new)",£90 a seat (£75 billed yearly),"Monthly, or yearly at £75",Not stated,ChatGPT Business pricing,https://chatgpt.com/pricing/?type=team,2026-11-18
+AI assistants,Claude,Pro,£18 (£15 billed yearly),"Monthly, or yearly at £180",Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI assistants,Claude,Max 5x,£90,Monthly only,Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI assistants,Claude,Ultra (new),£180,Monthly only,Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI assistants,Claude,"Team, Standard seat",£22.50 a seat (£18 billed yearly),"Monthly, or yearly at £18",Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI assistants,Google Gemini,Google AI Plus,£4.49,Monthly,Not stated,Google AI plans,https://one.google.com/intl/en_uk/about/google-ai-plans/,2026-11-18
+AI assistants,Google Gemini,Google AI Pro,£18.99,Monthly,Not stated,Google AI plans,https://one.google.com/intl/en_uk/about/google-ai-plans/,2026-11-18
+AI assistants,Google Gemini,Google AI Ultra 5x,£79.99,Monthly,Not stated,Google AI plans,https://one.google.com/intl/en_uk/about/google-ai-plans/,2026-11-18
+AI assistants,Google Workspace,Business Standard (Gemini included),£11.80 a user (20% off for the first 3 months on 18 Nov: £9.44),Price shown; a one-year commitment saves 16%,Excluded,Google Workspace pricing,https://workspace.google.com/intl/en_uk/pricing,2026-11-18
+AI assistants,Microsoft Copilot,Microsoft 365 Personal,£8.49 (£84.99 a year). Limited-time offer on 18 Nov: £5.49 for the first month or £58.99 for the first year,"Monthly, or yearly at £84.99",Not stated,Microsoft 365 plans,https://www.microsoft.com/en-gb/microsoft-365/buy/compare-all-microsoft-365-products,2026-11-18
+AI assistants,Microsoft Copilot,Microsoft 365 Premium,£18.99 (£189.99 a year). Limited-time offer on 18 Nov: £12.99 for the first month or £129.99 for the first year,"Monthly, or yearly at £189.99",Not stated,Microsoft 365 plans,https://www.microsoft.com/en-gb/microsoft-365/buy/compare-all-microsoft-365-products,2026-11-18
+AI assistants,Microsoft Copilot,Microsoft 365 Copilot Business (add-on),"£19.32 a user (£13.80 paid yearly, offer)","Monthly, or £13.80 a month paid yearly (offer to 31 December 2026)",Excluded,Microsoft Copilot for small business,https://www.microsoft.com/en-gb/copilot/solutions/business,2026-11-18
+AI assistants,Grok (SpaceXSI),X Subscription Premium,$30 (about £22.50),Monthly,Excluded,SpaceXSI pricing,https://x.ai/pricing,2026-11-18
+AI assistants,Perplexity,Pro,£20 (App Store),Monthly (App Store),Included (App Store),Perplexity on the UK App Store,https://apps.apple.com/gb/app/perplexity-ask-anything/id1668000334,25 Oct 2026 (not rechecked: the App Store website no longer lists in-app prices)
+AI agents and coding tools,Claude Code,Included in Claude Pro,£18 (£15 billed yearly),"Monthly, or yearly at £180",Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI agents and coding tools,Claude Code,Included in Claude Max 5x,£90,Monthly only,Included,Claude pricing,https://claude.com/pricing,2026-11-18
+AI agents and coding tools,Cursor,Plus,$8 (about £6),Monthly,Excluded,Cursor pricing,https://cursor.com/pricing,2026-11-18
+AI agents and coding tools,Cursor,Premium,$30 (about £22.50),Monthly,Excluded,Cursor pricing,https://cursor.com/pricing,2026-11-18
+AI agents and coding tools,GitHub Copilot,Pro,$10 (about £7.50),Monthly,Not stated,GitHub Copilot plans,https://github.com/features/copilot/plans,2026-11-18
+AI agents and coding tools,Devin,Pro,$20 (about £15),Monthly,Not stated,Devin pricing,https://devin.ai/pricing,2026-11-18
+AI agents and coding tools,Manus,"Pro (4,000 credits)",From £20 (App Store),Monthly (App Store),Included (App Store),Manus on the UK App Store,https://apps.apple.com/gb/app/manus-ai/id6740909540,25 Oct 2026 (not rechecked: the App Store website no longer lists in-app prices)
+Automation,n8n,Cloud Starter,£24 (£20 billed yearly),"Monthly, or £20 a month billed yearly",Excluded,n8n pricing,https://n8n.io/pricing/,2026-11-18
+Automation,Zapier,Professional (750 tasks),$19.99 billed yearly (about £15),Billed yearly,Not stated,Zapier pricing,https://zapier.com/pricing,2026-11-18
+Automation,Make,Core,Not shown: priced by the credits you choose,Monthly or yearly; yearly is cheaper,Not stated,Make pricing,https://www.make.com/en/pricing,2026-10-25
+Meeting assistants and image tools,Otter,Pro,$16.99 (about £12.75),"Monthly, or $8.33 a month billed yearly",Not stated,Otter pricing,https://otter.ai/pricing,2026-11-18
+Meeting assistants and image tools,Fireflies,Pro,$10 a seat billed yearly (about £7.50),Billed yearly,Not stated,Fireflies pricing,https://fireflies.ai/pricing,2026-11-18
+Meeting assistants and image tools,Midjourney,Basic,$10 (about £7.50),"Monthly, or $96 a year",Not stated,Midjourney plans,https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans,2026-11-18
+Meeting assistants and image tools,Midjourney,Standard,$30 (about £22.50),"Monthly, or $288 a year",Not stated,Midjourney plans,https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans,2026-11-18
