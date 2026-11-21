@@ -20,4 +20,4 @@ Each public use must show a visible link to the source page on aiagents.org.uk (
 
 The data is checked against vendors' own pages on the dates shown, but prices and availability change. It is provided as it is, without warranty, and is not financial or legal advice. Check the vendor before you buy.
 
-For any other use, ask: annie@brand3.xyz
+For any other use, ask: annie@brands3.xyz
