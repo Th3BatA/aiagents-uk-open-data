@@ -1,0 +1,227 @@
+[
+ {
+  "agent": "ChatGPT and ChatGPT Work",
+  "maker": "OpenAI",
+  "uk_status": "Available",
+  "detail": "Public publishing of Sites wasn't offered in the UK at launch",
+  "checked": "2026-10-16",
+  "guide": "ChatGPT agents",
+  "guide_url": "https://aiagents.org.uk/chatgpt-agents/"
+ },
+ {
+  "agent": "OpenAI Codex",
+  "maker": "OpenAI",
+  "uk_status": "Available",
+  "detail": "Sites not offered here; Memories starts switched off",
+  "checked": "2026-10-18",
+  "guide": "OpenAI Codex",
+  "guide_url": "https://aiagents.org.uk/openai-codex/"
+ },
+ {
+  "agent": "Claude Code",
+  "maker": "Anthropic",
+  "uk_status": "Available",
+  "detail": "UK on Anthropic's supported countries list",
+  "checked": "2026-10-21",
+  "guide": "Claude Code",
+  "guide_url": "https://aiagents.org.uk/claude-code/"
+ },
+ {
+  "agent": "Claude Cowork",
+  "maker": "Anthropic",
+  "uk_status": "Available",
+  "detail": "Pro is £18 a month on the web, £20 on the App Store",
+  "checked": "2026-10-29",
+  "guide": "Claude Cowork review",
+  "guide_url": "https://aiagents.org.uk/claude-cowork-review/"
+ },
+ {
+  "agent": "Microsoft 365 Copilot and agents",
+  "maker": "Microsoft",
+  "uk_status": "Available",
+  "detail": "UK prices in GBP excluding VAT",
+  "checked": "2026-10-26",
+  "guide": "Microsoft Copilot agents UK",
+  "guide_url": "https://aiagents.org.uk/microsoft-copilot-agents-uk/"
+ },
+ {
+  "agent": "Copilot Studio",
+  "maker": "Microsoft",
+  "uk_status": "Available",
+  "detail": "Some generative AI processed in the EU Data Boundary",
+  "checked": "2026-10-29",
+  "guide": "Copilot Studio UK",
+  "guide_url": "https://aiagents.org.uk/copilot-studio-uk/"
+ },
+ {
+  "agent": "GitHub Copilot coding agent",
+  "maker": "GitHub",
+  "uk_status": "Available",
+  "detail": "Terms only restrict US-sanctioned places",
+  "checked": "2026-10-18",
+  "guide": "GitHub Copilot coding agent",
+  "guide_url": "https://aiagents.org.uk/github-copilot-coding-agent/"
+ },
+ {
+  "agent": "Google Antigravity",
+  "maker": "Google",
+  "uk_status": "Available",
+  "detail": "UK on Google's approved countries list",
+  "checked": "2026-10-18",
+  "guide": "Google Antigravity",
+  "guide_url": "https://aiagents.org.uk/google-antigravity/"
+ },
+ {
+  "agent": "Grok Bot (this site uses it for research)",
+  "maker": "SpaceXSI",
+  "uk_status": "Available",
+  "detail": "Tagging @bot on X isn't available for UK or EU accounts yet",
+  "checked": "2026-10-26",
+  "guide": "Grok Bot",
+  "guide_url": "https://aiagents.org.uk/grok-bot/"
+ },
+ {
+  "agent": "Perplexity Computer",
+  "maker": "Perplexity",
+  "uk_status": "Available (paid plans)",
+  "detail": "Free trial turns and Amex business skills are US-only",
+  "checked": "2026-10-18",
+  "guide": "Perplexity Computer",
+  "guide_url": "https://aiagents.org.uk/perplexity-computer/"
+ },
+ {
+  "agent": "Manus",
+  "maker": "Butterfly Effect (Singapore)",
+  "uk_status": "Available",
+  "detail": "Data stored in the US and Singapore",
+  "checked": "2026-10-18",
+  "guide": "Manus AI",
+  "guide_url": "https://aiagents.org.uk/manus-ai/"
+ },
+ {
+  "agent": "Siri AI",
+  "maker": "Apple",
+  "uk_status": "Available (English)",
+  "detail": "Not on iPhone, iPad or Apple Watch in the EU; UK unaffected",
+  "checked": "2026-10-18",
+  "guide": "Siri AI",
+  "guide_url": "https://aiagents.org.uk/siri-ai/"
+ },
+ {
+  "agent": "Salesforce Agentforce",
+  "maker": "Salesforce",
+  "uk_status": "Available",
+  "detail": "Sterling prices; Hunter still in pilot",
+  "checked": "2026-10-18",
+  "guide": "Agentforce",
+  "guide_url": "https://aiagents.org.uk/salesforce-agentforce/"
+ },
+ {
+  "agent": "Devin",
+  "maker": "Cognition",
+  "uk_status": "Available",
+  "detail": "Cognition has a London office",
+  "checked": "2026-10-18",
+  "guide": "Devin AI",
+  "guide_url": "https://aiagents.org.uk/devin-ai/"
+ },
+ {
+  "agent": "Hermes Agent",
+  "maker": "Nous Research",
+  "uk_status": "Available",
+  "detail": "Cloud models priced in dollars",
+  "checked": "2026-10-17",
+  "guide": "Hermes Agent",
+  "guide_url": "https://aiagents.org.uk/hermes-agent/"
+ },
+ {
+  "agent": "OpenClaw",
+  "maker": "OpenClaw Foundation (open source)",
+  "uk_status": "Available",
+  "detail": "Runs on your own machine; no country restrictions found",
+  "checked": "2026-10-17",
+  "guide": "OpenClaw",
+  "guide_url": "https://aiagents.org.uk/openclaw/"
+ },
+ {
+  "agent": "Meta Muse Code",
+  "maker": "Meta",
+  "uk_status": "Available (no country list)",
+  "detail": "Trains on your code by default",
+  "checked": "2026-10-18",
+  "guide": "Meta Muse Code",
+  "guide_url": "https://aiagents.org.uk/meta-muse-code/"
+ },
+ {
+  "agent": "ChatGPT Dots",
+  "maker": "OpenAI",
+  "uk_status": "Limited",
+  "detail": "Not on personal Pro plans in the UK, EEA or Switzerland; yes on Business Premium (subject to eligibility) and Enterprise (beta)",
+  "checked": "2026-10-26",
+  "guide": "ChatGPT Dots",
+  "guide_url": "https://aiagents.org.uk/chatgpt-dots/"
+ },
+ {
+  "agent": "Gemini agent",
+  "maker": "Google",
+  "uk_status": "Limited",
+  "detail": "Private preview only, though Google hasn't excluded the UK",
+  "checked": "2026-10-18",
+  "guide": "Gemini agent",
+  "guide_url": "https://aiagents.org.uk/gemini-agent/"
+ },
+ {
+  "agent": "Copilot Autopilot",
+  "maker": "Microsoft",
+  "uk_status": "Limited",
+  "detail": "Private preview only, with no country list",
+  "checked": "2026-10-18",
+  "guide": "Copilot Autopilot",
+  "guide_url": "https://aiagents.org.uk/copilot-autopilot/"
+ },
+ {
+  "agent": "Salesforce Hunter",
+  "maker": "Salesforce",
+  "uk_status": "Limited",
+  "detail": "Pilot everywhere; no countries listed",
+  "checked": "2026-10-18",
+  "guide": "Salesforce Hunter",
+  "guide_url": "https://aiagents.org.uk/salesforce-hunter/"
+ },
+ {
+  "agent": "Instinct",
+  "maker": "Spear Street Technology (US)",
+  "uk_status": "Limited",
+  "detail": "Sign-in page lists +44 numbers, but invite-only and no UK terms",
+  "checked": "2026-10-18",
+  "guide": "Instinct AI",
+  "guide_url": "https://aiagents.org.uk/instinct-ai/"
+ },
+ {
+  "agent": "Gemini Spark (tasks)",
+  "maker": "Google",
+  "uk_status": "Not available",
+  "detail": "Google's help page excludes the EEA, Nigeria, Switzerland and the UK; no UK date",
+  "checked": "2026-10-18",
+  "guide": "Gemini Spark",
+  "guide_url": "https://aiagents.org.uk/gemini-spark/"
+ },
+ {
+  "agent": "Meta Muse",
+  "maker": "Meta",
+  "uk_status": "Not available",
+  "detail": "Launched only in the US, Canada and Japan; no UK date",
+  "checked": "2026-10-23",
+  "guide": "Meta Muse",
+  "guide_url": "https://aiagents.org.uk/meta-muse/"
+ },
+ {
+  "agent": "Claude Duet",
+  "maker": "Anthropic",
+  "uk_status": "Not available",
+  "detail": "US only, by waitlist",
+  "checked": "2026-10-23",
+  "guide": "Claude Duet",
+  "guide_url": "https://aiagents.org.uk/claude-duet/"
+ }
+]
