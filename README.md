@@ -15,7 +15,7 @@ Last updated: 21 November 2026.
 
 - **Prices:** read from each vendor's UK pricing page or the UK App Store. Prices in dollars are shown in dollars with an approximate pound figure; VAT is recorded as the vendor states it ("Included", "Excluded" or "Not stated").
 - **Availability:** read from each maker's help pages, country lists and launch notes. "Limited" means it works in the UK with a named restriction.
-- **Local LLM fit:** download sizes from the Ollama library. Fit uses the rule in the [local LLM memory calculator](https://aiagents.org.uk/local-llm-memory-calculator/): macOS lets a model use about 75% of memory, and the conversation needs 2 to 4 GB on top. "Comfortable" leaves 4 GB spare, "Tight" leaves 2 GB. Good-for labels are adapted from [ModelFit's hardware dataset](https://github.com/modelfit-io/modelfit-hardware-dataset) (CC BY 4.0).
+- **Local LLM fit:** download sizes are what Ollama gives a Mac, read from its registry. Ollama now downloads Apple's MLX build of a model on a Mac where one exists, so some sizes differ from those on Ollama's website. Fit uses the rule in the [local LLM memory calculator](https://aiagents.org.uk/local-llm-memory-calculator/): macOS lets a model use about 75% of memory, and the conversation needs 2 to 4 GB on top. "Comfortable" leaves 4 GB spare, "Tight" leaves 2 GB. Good-for labels are adapted from [ModelFit's hardware dataset](https://github.com/modelfit-io/modelfit-hardware-dataset) (CC BY 4.0).
 
 Prices and availability change often. Check the vendor before you buy. Spotted something out of date? [Tell me](https://aiagents.org.uk/contact/) or open an issue.
 
