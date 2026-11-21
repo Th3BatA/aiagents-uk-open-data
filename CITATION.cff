@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to the source page on aiagents.org.uk."
+title: "UK AI prices, availability and local LLM fit"
+authors:
+  - family-names: Vane
+    given-names: Annie
+date-released: 2026-11-21
+url: "https://aiagents.org.uk/open-data/"
+repository-code: "https://github.com/Th3BatA/aiagents-uk-open-data"
+license-url: "https://aiagents.org.uk/open-data/#terms"
+keywords:
+  - AI pricing
+  - UK
+  - AI agents
+  - local LLM
+  - Ollama
