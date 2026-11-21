@@ -1,0 +1,50 @@
+[
+ {
+  "assistant": "ChatGPT",
+  "cheapest_paid_route": "Go, or Plus on the UK App Store at £19.99",
+  "effective_monthly_cost": "£7 for Go; £19.99 for Plus",
+  "avoid": "There is no yearly discount on personal plans",
+  "source": "ChatGPT pricing; UK App Store",
+  "source_url": "https://chatgpt.com/pricing/"
+ },
+ {
+  "assistant": "Claude",
+  "cheapest_paid_route": "Pro paid yearly on claude.com, £180",
+  "effective_monthly_cost": "£15, VAT included",
+  "avoid": "The App Store: Pro is £20 a month or £199.99 a year there",
+  "source": "Claude pricing; UK App Store",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "assistant": "Gemini",
+  "cheapest_paid_route": "Google AI Plus; free for a year for eligible UK university students",
+  "effective_monthly_cost": "£4.49 (or £0 for a year)",
+  "avoid": "Paying for AI Pro if you only need chat",
+  "source": "Google AI plans; Google AI for students",
+  "source_url": "https://one.google.com/intl/en_uk/about/google-ai-plans/ https://gemini.google/students/"
+ },
+ {
+  "assistant": "Copilot",
+  "cheapest_paid_route": "Microsoft 365 Personal, paid yearly at £84.99",
+  "effective_monthly_cost": "about £7.08",
+  "avoid": "Premium, unless you need the extra Copilot usage",
+  "source": "Microsoft 365 plans",
+  "source_url": "https://www.microsoft.com/en-gb/microsoft-365/buy/compare-all-microsoft-365-products"
+ },
+ {
+  "assistant": "Perplexity",
+  "cheapest_paid_route": "Pro billed yearly on the website, $17 a month",
+  "effective_monthly_cost": "about £12.75 plus any VAT",
+  "avoid": "The App Store, at £20 a month",
+  "source": "Perplexity pricing; UK App Store",
+  "source_url": "https://www.perplexity.ai/hub/pricing https://apps.apple.com/gb/app/perplexity-ask-anything/id1668000334"
+ },
+ {
+  "assistant": "Grok",
+  "cheapest_paid_route": "X Subscription Plus, $8 a month",
+  "effective_monthly_cost": "about £6 plus VAT",
+  "avoid": "Premium at $30, unless you want Grok Bot",
+  "source": "SpaceXSI pricing",
+  "source_url": "https://x.ai/pricing"
+ }
+]
